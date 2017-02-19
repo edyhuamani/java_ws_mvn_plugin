@@ -1,0 +1,5 @@
+wsgen -keep -cp . com.mkyong.ws.HelloWorldImpl
+
+carpeta classes
+C:\Users\Edy\workspace\postulacion\ws_maven2\target\classes>wsgen -keep -cp . -wsdl pe.com.foxdev.service.HelloImplementacion
+se generaran las clases stub correspondientes en la carpeta target
